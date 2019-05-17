@@ -1,0 +1,11 @@
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\bin\Debug\netcoreapp2.1\RichModelDDD.deps.json
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\bin\Debug\netcoreapp2.1\RichModelDDD.runtimeconfig.json
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\bin\Debug\netcoreapp2.1\RichModelDDD.runtimeconfig.dev.json
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\bin\Debug\netcoreapp2.1\RichModelDDD.dll
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.csproj.CoreCompileInputs.cache
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.RazorAssemblyInfo.cache
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.RazorAssemblyInfo.cs
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.AssemblyInfoInputs.cache
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.AssemblyInfo.cs
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.RazorTargetAssemblyInfo.cache
+C:\Users\michael.macharavanda\source\repos\RichModelDDD\obj\Debug\netcoreapp2.1\RichModelDDD.csprojAssemblyReference.cache
